@@ -1,4 +1,10 @@
+# Dojo Roll
+
+A simple app I'm building to practice React and help take attendance at my karate club.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Types
 
 ```javascript
 class Person {
