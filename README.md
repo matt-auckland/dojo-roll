@@ -1,3 +1,6 @@
+<img src="src/logo.png"
+     alt="UoA Karate Club Logo"/>
+
 # Dojo Roll
 
 A simple app I'm building to practice React and help take attendance at my karate club.
